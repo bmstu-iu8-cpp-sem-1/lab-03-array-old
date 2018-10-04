@@ -61,3 +61,10 @@ std::vector<float> v = generate_random_vector<float>(25);
 1. Дано  слово.  Добавить  к  нему  в  начале  и  конце  столько  звездочек,  сколько букв в этом слове.
 1. Дано предложение. Определить долю (в %) букв `'a'` в нем.
 1. Дано предложение `"Can you can a can as a canner can can a can?"`. Заменить все слова `can` на слово `newWord` (`newWord` вводится с клавиатуры)
+
+
+## Инструкция по выполнению
+Напоминаю, что задания необходимо сдавать через PR и с пройденными тестами в TravisCI. Подробное описание [по ссылке](https://classroom.github.com/a/J-dNYuEp).
+
+## Полезные ссылки и литература
+* https://github.com/bmstu-iu8-cpp/cpp-beginner-2017/blob/master/lab3/lab3_1.cpp
